@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MMPK Offline Route Inspector</string>
+    <string name="load_mmpk_btn">Pilih File MMPK</string>
+    <string name="status_ready">Siap memuat file MMPK dari memori HP</string>
+    <string name="origin_label">Titik Awal (Origin)</string>
+    <string name="dest_label">Titik Tujuan (Destination)</string>
+    <string name="btn_set_origin">Set Titik Awal</string>
+    <string name="btn_set_dest">Set Titik Tujuan</string>
+    <string name="btn_solve_route">Cari Rute Terdekat</string>
+    <string name="btn_clear_route">Reset Rute</string>
+    <string name="title_mmpk_info">Informasi MMPK</string>
+    <string name="title_routing_info">Rute &amp; Navigasi</string>
+</resources>
